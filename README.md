@@ -14,7 +14,7 @@ After a man with the ability to control people’s minds kidnaps [player]’s si
 -	Throw objects to hit enemies.
 -	Enemies will detect you if you get close enough and attack.
 -	Enemies can be defeated by throwing objects at them.
--	Top view 2D game.
+-	3D game.
 -	Character can move in all directions using arrow keys.
 -	Character can jump.
 -	Camera follows character.
