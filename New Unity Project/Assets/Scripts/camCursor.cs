@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+ //Have camera follow cursor
+
 public class camCursor : MonoBehaviour {
 
 	Vector2 mouseLook;
