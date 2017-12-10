@@ -76,4 +76,9 @@ Week 10/11
 
 <b>References</b>
 
-<You need to list all references used to develop this game?  Online tutorials.  Book references.  Etc.>
+- https://www.youtube.com/watch?v=blO039OzUZc&t=432s (Used for camera and player movement)
+- https://www.youtube.com/watch?v=36ruPSD7FJk&list=PLivfKP2ufIK6ToVMtpc_KTHlJRZjuE1z0&index=2 (Episodes 1-3)
+- https://www.youtube.com/watch?v=vdOFUFMiPDU&t=358s (Used for jumping)
+- https://www.youtube.com/watch?v=S2mK6KFdv0I&list=PLPV2KyIb3jR4KLGCCAciWQ5qHudKtYeP7&index=2 (Bits and pieces from all episodes of series)
+- https://www.youtube.com/watch?v=zc8ac_qUXQY (Menu)
+- 
